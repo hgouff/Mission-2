@@ -1,0 +1,14 @@
+/Users/hannahgouff/RiderProjects/Mission 2/bin/Debug/net8.0/Mission 2
+/Users/hannahgouff/RiderProjects/Mission 2/bin/Debug/net8.0/Mission 2.deps.json
+/Users/hannahgouff/RiderProjects/Mission 2/bin/Debug/net8.0/Mission 2.runtimeconfig.json
+/Users/hannahgouff/RiderProjects/Mission 2/bin/Debug/net8.0/Mission 2.dll
+/Users/hannahgouff/RiderProjects/Mission 2/bin/Debug/net8.0/Mission 2.pdb
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.AssemblyInfoInputs.cache
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.AssemblyInfo.cs
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.csproj.CoreCompileInputs.cache
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.dll
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/refint/Mission 2.dll
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.pdb
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/Mission 2.genruntimeconfig.cache
+/Users/hannahgouff/RiderProjects/Mission 2/obj/Debug/net8.0/ref/Mission 2.dll
